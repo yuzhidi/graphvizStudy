@@ -1,0 +1,3 @@
+dot finite_state_machine -T svg > a.svg
+dot finite_state_machine -T png > test.png
+dot finite_state_machine2 -T svg -o 2o.svg
